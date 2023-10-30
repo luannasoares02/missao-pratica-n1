@@ -1,0 +1,24 @@
+
+/*ÁREA PRINCIPAL*/
+main .container-global{
+    justify-content: space-between;
+}
+.paineis-receitas{
+    width: 31%;
+    color: white;
+    background-color: #703C2E;
+    padding: 25px;
+    border-radius: 10px;
+    height: 580px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-between;
+   
+}
+.paineis-receitas img{
+    width: 100%;
+    border-radius: 10px;
+}
+main li{
+    color: #fff;
+}
